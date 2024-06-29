@@ -16,7 +16,7 @@ Before starting, please read through the [Reading Checklist](checklist/README.md
 
 | Research Paper                                                                 | Link to Paper                                 | Annotated Version                       | Summary                           |
 |----------------------------------------------------------------------------|-----------------------------------------------|----------------------------------------|----------------------------------|
-| DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | [Link to Paper](https://arxiv.org/pdf/2406.11931) | [Annotated Version](https://github.com/iampukar/reading-research-paper/blob/main/data/annotated/DeepSeek-Coder-V2.pdf) | [Summary](https://github.com/iampukar/reading-research-paper/blob/main/data/annotated/DeepSeek-Coder-V2-summary.md) |
+| DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | [Link to Paper](https://arxiv.org/pdf/2406.11931) | [Annotated Version](https://github.com/iampukar/reading-research-paper/blob/main/data/annotated/DeepSeek-Coder-V2.pdf) | [Summary](https://github.com/iampukar/reading-research-paper/blob/main/data/summary/DeepSeek-Coder-V2-summary.md) |
 
 ## Contribution
 
